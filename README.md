@@ -1,6 +1,8 @@
 # Capstone-Project
 Kaggle Competition - Shopee Price Match Guarantee
 
+Dataset and more information can be found here: https://www.kaggle.com/c/shopee-product-matching
+
 # Problem Statement
 
 Shopee is the leading e-commerce platform in SEA and Taiwan with the largest item listing on their website in the region. Being an e-commerce website, sellers are able to list items, set prices, upload images with autonomy. This creates a potential problem, sellers can create duplicate item listings with no significant difference. This may be accidental, if sellers have the same supplier. It may also be intentional where the seller sells products at different prices or to create a false sense of competition. This is bad for the user experience for customers on their platform. Hence there is a business use case to detect for duplicate item listings.
